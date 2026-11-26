@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/ziperto-nintendo-switch-nsp-list-vkm0/sitemap.xml
